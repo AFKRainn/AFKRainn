@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AFKRainn
+- 👋 Hi, I’m Rane
 - 👀 I’m interested in AI, Machine Learning and Coding
 
 
